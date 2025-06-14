@@ -6,19 +6,6 @@ This repository contains Terraform code for provisioning and managing Azure infr
 
 ## 📁 Project Structure
 
-```
-
-terraform-azure-infrastructure/
-├── .gitignore                  # Ignore Terraform state files and other local files
-├── main.tf                    # Root Terraform configuration and provider setup
-├── variables.tf               # Input variables for parameterizing infrastructure
-├── app\_services/
-│   └── AppServices.tf         # Terraform configuration for Azure App Services
-├── backup/
-│   ├── bacup\_state.txt        # Manual backup of Terraform state (for reference)
-│   └── k.io.txt               # Additional backup notes or outputs
-
-````
 
 ## 🛠️ Features
 
