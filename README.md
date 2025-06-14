@@ -1,6 +1,5 @@
-Here's a clear and professional `README.md` file for your Terraform project based on the structure you provided:
 
-```markdown
+
 # Terraform Azure Infrastructure
 
 This repository contains Terraform code for provisioning and managing Azure infrastructure components, including App Services and related configurations.
