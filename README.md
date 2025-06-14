@@ -1,5 +1,5 @@
 
-
+```markdown
 # Terraform Azure Infrastructure
 
 This repository contains Terraform code for provisioning and managing Azure infrastructure components, including App Services and related configurations.
